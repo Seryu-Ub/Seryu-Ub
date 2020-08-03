@@ -5,6 +5,6 @@
 
 ### 👀 I see you 👀 
 
-#### 😔 I'm shy :( 
+#### 😔 I'm shy 
 
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/739702267296612413/a2e6c856951487658c5fd1a6440391a2.gif)
