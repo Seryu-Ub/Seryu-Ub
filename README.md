@@ -1,7 +1,7 @@
 ![Active](https://img.shields.io/badge/Langages-C%23%20%2F%20Js-ff69b4)
 ![Active](https://img.shields.io/badge/Enthusiasm-100%25-blueviolet) 
 ![Active](https://img.shields.io/badge/Experience-Beginner%20%2F%20Medium-blue)
-![Active](https://img.shields.io/badge/%3A%20)-French%20%2F%20English-9cf)
+![Active](https://img.shields.io/badge/%F0%9F%8C%8E-French%20%2F%20English-9cf)
 
 # 👀 I see you 👀 
 
