@@ -1,10 +1,10 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/688355222304587791/742990928574152734/IMG_7226.PNG.webp">
 
-# 📺 You're looking at Seryu's profile
+# You're looking at Seryu's profile 📺
 
-## 🌺 - Oh hi! Welcome to my profile !
+## - Oh hi! Welcome to my profile ! 🌺
 
-### 😅 I'm really very shy and not very productive... 
+### I'm really very shy and not very productive... 😅
 
 ![Active](https://img.shields.io/badge/Langages-C%23%20%2F%20Js-ff69b4)
 ![Active](https://img.shields.io/badge/Enthusiasm-100%25-blueviolet) 
