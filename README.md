@@ -1,4 +1,4 @@
-<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/688355222304587791/742999325059186698/ePijZ5X7V26Xsj1qEgXevrB4lnbd7cUrMa8f0JNaOxW7tPFco4Qpi5dAyLUMNnH-jDm7onBrJcs0FkLXKWQ1WalqZkr0LpGAe9pA.gif">
+<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/688355222304587791/743000093434576966/GiantNextAustraliansilkyterrier-size_restricted.gif">
 
 
 # You're looking at Seryu's profile 📺
