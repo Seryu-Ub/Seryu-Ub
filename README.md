@@ -1,5 +1,7 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/688355222304587791/742990928574152734/IMG_7226.PNG.webp">
 
+<img width="150" height="150" align="right" style="float: right; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/688355222304587791/742990928574152734/IMG_7226.PNG.webp">
+
 # You're looking at Seryu's profile 📺
 
 ## - Oh hi! Welcome to my profile ! 🌺
