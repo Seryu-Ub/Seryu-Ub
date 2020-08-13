@@ -14,3 +14,5 @@
 ![Active](https://img.shields.io/badge/%F0%9F%8C%8E-French%20%2F%20English-9cf)
 
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/739702267296612413/a2e6c856951487658c5fd1a6440391a2.gif)
+
+![](https://github-readme-stats.vercel.app/api?username=sanchitvj&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
