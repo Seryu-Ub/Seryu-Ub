@@ -15,3 +15,4 @@
 
 ![alt text](https://cdn.discordapp.com/attachments/727474203804041288/739702267296612413/a2e6c856951487658c5fd1a6440391a2.gif)
 
+<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/688355222304587791/743000093434576966/GiantNextAustraliansilkyterrier-size_restricted.gif">
