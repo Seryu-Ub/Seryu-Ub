@@ -13,5 +13,5 @@
 ![Active](https://img.shields.io/badge/Experience-Beginner%20%2F%20Medium-blue)
 ![Active](https://img.shields.io/badge/%F0%9F%8C%8E-French%20%2F%20English-9cf)
 
-![alt text](https://cdn.discordapp.com/attachments/758773639390429224/762749958897795072/5ff542e96aeff8d5d8ef2f1c98b4b094.gif)
+![alt text](https://cdn.discordapp.com/attachments/758773639390429224/763074319265562664/83626.gif)
 
