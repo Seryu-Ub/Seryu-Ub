@@ -5,7 +5,6 @@
 ## - Oh hi! Welcome to my profile ! 🐱
 
 ### I'm really very shy and not very productive... 😅
-![alt text](https://im4.ezgif.com/tmp/ezgif-4-51e09f46f026.gif)
 
 ![Active](https://img.shields.io/badge/Langages-C%23%20%2F%20Js-ff69b4)
 ![Active](https://img.shields.io/badge/Enthusiasm-100%25-blueviolet) 
