@@ -1,4 +1,4 @@
-<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://im4.ezgif.com/tmp/ezgif-4-51e09f46f026.gif">
+<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/759495663275999283/774716442381385738/ezgif-3-9f018e83aae6.gif">
 
 # You're looking at Seryu's profile 📺
 
