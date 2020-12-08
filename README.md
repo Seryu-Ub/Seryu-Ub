@@ -6,10 +6,12 @@
 
 ### I'm really very shy and not very productive... 😅
 
-![alt text](https://i.imgur.com/4M7IWwP.gif)
+<p align="center">
+<img src="https://i.imgur.com/4M7IWwP.gif"
+</p>
 
 <p align="center">
-<img align="middle" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/759495663275999283/775350103896358942/erghth.gif">
+<img src="https://cdn.discordapp.com/attachments/759495663275999283/775350103896358942/erghth.gif">
 </p>
 
 <p align="center">
