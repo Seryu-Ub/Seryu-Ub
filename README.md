@@ -17,7 +17,7 @@
 <code><img height="20" src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code>
 <code><img height="20" src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/></code>
 <code><img height="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
-<code><img height="20" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></code>
+<code><img height="20" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></code>
 </p>
 
 <p align="center">
