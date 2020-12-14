@@ -9,7 +9,7 @@
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/759495663275999283/787794086786367498/3157170422_1_2_O09R2KF1.gif">
+<img src="https://cdn.discordapp.com/attachments/759495663275999283/788177530099204106/3154661062_1_4_lN6sDx0s.gif">
 </p>
 
 <p align="center">
