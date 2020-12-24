@@ -1,4 +1,4 @@
-<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/759495663275999283/789583480647450634/ezgif-6-c1aa3075770b.gif">
+<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="Seryû" src="https://cdn.discordapp.com/attachments/759495663275999283/791492467282542602/ezgif-3-8159f003233b.gif">
 
 # You're looking at Seryu's profile 📺
 
@@ -9,7 +9,7 @@
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/759495663275999283/789583958174203904/uw5Gc7L.gif">
+<img src="https://cdn.discordapp.com/attachments/759495663275999283/791491998048583680/3fYL8i6Q-n-155t3dn_4nDPKadhD1Uj3DvwQ-f-4W7dhRF8tOJ04HTIHBuUmP6O.gif">
 </p>
 
 <p align="center">
