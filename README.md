@@ -6,8 +6,8 @@
 
 ### I'm really very shy and not very productive... 😅
 
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/759495663275999283/813579271443972127/71dbf58830c45b2efcde47867693a02d.gif">
+<br> <p align="center">
+<img  src="https://cdn.discordapp.com/attachments/759495663275999283/813579271443972127/71dbf58830c45b2efcde47867693a02d.gif">
 </p>
 
 <p align="center">
