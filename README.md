@@ -12,6 +12,6 @@
 <p align="center">
 <code><img src="https://img.shields.io/badge/Langages-C%23%20%2F%20Js-ff69b4"></code>
 <code><img src="https://img.shields.io/badge/Enthusiasm-100%25-blueviolet"></code>
-<code><img src="https://img.shields.io/badge/Experience-Beginner%20%2F%20Medium-blue"></code>
+<code><img src="https://img.shields.io/badge/Experience-Medium-blue"></code>
 <code><img src="https://img.shields.io/badge/%F0%9F%8C%8E-French%20%2F%20English-9cf"></code>
 </p>
