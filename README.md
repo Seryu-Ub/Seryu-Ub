@@ -1,5 +1,5 @@
 <br> <p align="center">
-<img  src="https://cdn.discordapp.com/attachments/759495663275999283/978694637277564958/angelo-91days.gif">
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/758405376718274590)
 </p>
 
 <p align="center">
