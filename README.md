@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-**IT student (cybersec/devops) 17yo, I can help you in C#, C, C++, web languages.**
+**IT student (cybersec/devops) 18yo, I can help you in C#, C, C++, web languages.**
 <br>
 Uh I'm not very good at talking but feel free to come to me! I often listen to music on soundcloud and spotify...
 <br>
