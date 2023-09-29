@@ -4,8 +4,7 @@
 <br>
 Uh I'm not very good at talking but feel free to come to me! I often listen to music on soundcloud and spotify...
 <br>
-*Most of my projects are in private but don't hesitate to submit ideas! I like to make things but I don't often have ideas ^__^ 
-(Personal Github account with PRO = Private)*
+*Most of my projects are in private but don't hesitate to submit ideas! I like to make things but I don't often have ideas ^__^*
 
 <br> <p align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/758405376718274590?theme=light&bg=db99e1&hideDiscrim=true&borderRadius=20px&idleMessage=Plays%20with%20a%20stick)](https://discord.com/users/758405376718274590)
