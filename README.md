@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 **IT student (cybersec/devops)**
 <br>
-18 yo RE software, Bash, C, C++, NodeJS developer.
+18 yo RE software, Bash, C, Python, NodeJS developer.
 <br>
 "Reverse Engineering is like detective work, except instead of following clues, you follow assembly instructions"
 <br>
