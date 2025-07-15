@@ -2,7 +2,7 @@
 
 **IT Student (Cybersecurity/DevOps)**
 
-- 19-year-old RE software, Arch, and Hyprland enthusiast
+- 20-year-old RE software, Arch, and Hyprland enthusiast
 - Languages: C++, Bash, C, Python, NodeJS
 - "Reverse Engineering is like detective work, except instead of following clues, you follow assembly instructions"
 
