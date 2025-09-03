@@ -18,5 +18,5 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 
 <p align="center">
   <img src="https://static.wikia.nocookie.net/umineko/images/e/e7/Eri_a11_.png/revision/latest?cb=20130528195448&path-prefix=es" alt="character" style="width: 50%; margin-top: 20px;"/>
-  <img src="https://cdn.discordapp.com/attachments/759495663275999283/1332144027901886595/cooltext474599230905967.png?ex=67942f4e&is=6792ddce&hm=af1827b3d116a6b081acf99154a45fa06c35a76d806fa3a07fea0a8db6d025a1&" alt="cooltext" style="width: 50%; margin-top: 20px;"/>
+  <img src="https://cdn.discordapp.com/attachments/1401561809533796375/1412721146046185493/seryuroot.png?ex=68b95298&is=68b80118&hm=ab4fab964d432d7fd72e942810a98caafe15c74f94bc64128d50690a09a44857" alt="cooltext" style="width: 50%; margin-top: 20px;"/>
 </p>
