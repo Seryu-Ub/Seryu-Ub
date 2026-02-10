@@ -3,7 +3,7 @@
 **Computer science student passionate about cybersecurity and DevOps**
 
 - 20-year-old RE software, Arch, and Hyprland enthusiast
-- Languages: C++, Bash, C, Python, NestJS, C#
+- Languages: C++, Bash, C, Python, NestJS, C#, Flutter, React
 - "Reverse Engineering is like detective work, except instead of following clues, you follow assembly instructions"
 
 Technologies I used :
